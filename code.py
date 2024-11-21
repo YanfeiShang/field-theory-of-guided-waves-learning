@@ -30,3 +30,4 @@ ax2.set_title('Lc-Rc-freq Plot')
 plt.show()
 
 
+
